@@ -78,6 +78,9 @@ The result will be a dynamic timestamp that displays differently for everyone ba
 > **Description:** High-quality SVG converter.  <br/>
 **Link:** [SVG Converters](https://picsvg.com/)
 
+> **Description:** High-quality black SVG converter.  <br/>
+**Link:** [SVG Converters](https://sketchvectorize.art/)
+
 ### SVG Viewer
 
 > **Description:** View SVG files.   <br/>
